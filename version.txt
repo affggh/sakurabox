@@ -1,0 +1,2 @@
+online_version=1.3
+download_address=https://gitee.com/affggh/sakurabox/attach_files/683213/download/SakuraBox_Added_1.3.exe
